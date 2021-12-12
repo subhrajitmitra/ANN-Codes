@@ -1,7 +1,7 @@
 # ANN-Codes
 Algorithmic representation of Codes for ANN
 
-Contact details : mitra.subhrajit007@gmail.com
+Contact details : mitra[dot]subhrajit007[@]gmail[dot]com
 
 MIT License
 
